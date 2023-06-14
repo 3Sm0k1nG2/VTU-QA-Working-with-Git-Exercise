@@ -1,1 +1,2 @@
 Simple new file for a issue to be linked to.
+Created an empty issue.
